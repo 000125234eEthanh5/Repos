@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://wallpaperscraft.com/image/piano_keys_musical_instrument_107096_1920x1080.jpg");
+    position: static;
+}
+
+.output {
+    font-family: arial;
+    font-weight: bold;
+    text-align: justify;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-shadow: 0px 2px black;
+}
+
+h1 {
+    font-family: inherit;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+textarea {
+    display: block;
+    width: 500px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-color: lightblue;
+    margin-bottom: 10px;
+}
+.short {
+    color: yellow;
+}
+img {
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#colorSelect {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#colorSelect select {
+
+}
+
+span {
+    margin: 3px;
+}
